@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkifct_124=self.webpackChunkifct_124||[]).push([[397],{9668:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/IFCT124/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

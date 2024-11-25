@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkifct_124=self.webpackChunkifct_124||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Riesgos","permalink":"/blog/tags/riesgos","description":"Riesgos etiqueta descripcion","count":2},{"label":"Ciberseguridad","permalink":"/blog/tags/ciberseguridad","description":"Ciberseguridad etiqueta descripcion","count":2}]}')}}]);
